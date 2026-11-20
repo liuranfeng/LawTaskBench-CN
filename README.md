@@ -1,2 +1,3 @@
 # LawTaskBench-CN
 中文法律实务任务基准，给模型一份合同、附件和审查规则，让它做出有证据、能复核的判断。首版从采购合同审查开始，以后加尽调、法律检索或文书起草，覆盖中文法律全领域任务；
+A benchmark for evaluating AI on Chinese-language legal work, starting with contract review.
